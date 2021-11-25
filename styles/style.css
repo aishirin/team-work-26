@@ -1,0 +1,34 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 20px;
+}
+
+.parent-heading {
+    font-size: 16px;
+    height: 100vh;
+    background: violet;
+}
+
+.heading {
+    font-size: 0.5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
